@@ -46,7 +46,7 @@ ul{
 }
 
 #RIGHT{
-    background-color: rgba(0,255,184,.95);
+    background-color: rgba(0,141,255,.95);
     padding-top: 60px;
 }
 
@@ -118,11 +118,11 @@ textarea:active,textarea:focus{
 }
 
 .inputInLine .form_input{
-    width: 40%;
+    width: auto;
 }
 
 .inputInLine .form_input label{
-    width: 40%;
+    width: auto;
 
 }
 
