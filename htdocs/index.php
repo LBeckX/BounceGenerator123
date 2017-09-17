@@ -59,7 +59,7 @@
             </div>
         </div>
         <div class="form_input">
-            <label for="INPUT_ELEMENT_BACKGROUND_COLOR">Element height</label>
+            <label for="INPUT_ELEMENT_BACKGROUND_COLOR">Element background color</label>
             <input type="text" name="inputBackgroundColor" id="INPUT_ELEMENT_BACKGROUND_COLOR" placeholder="#000" minlength="4" maxlength="7">
         </div>
 
