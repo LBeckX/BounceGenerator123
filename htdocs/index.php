@@ -19,8 +19,8 @@
     <meta name="language" content="en">
     <meta name="keywords" content="CSS,css,css3,keyframes,bounce,jump,spring,effect,en,de,github,lbeckx,javascript,html5,html">
     <meta property="og:title" content="BounceGenerator123 - webitfactory.com" />
-    <meta property="og:url" content="//http://bouncegenerator.webitfactory.com" />
-    <meta property="og:image" content="/files/img/blink_shot.JPG" />
+    <meta property="og:url" content="http://bouncegenerator.webitfactory.com" />
+    <meta property="og:image" content="/files/img/pro_bounceGen.jpg" />
     <meta property="og:description" content="Create your own bounce-effect with keyframes in CSS3" />
     <meta property="og:type"   content="website" />
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i" rel="stylesheet">
